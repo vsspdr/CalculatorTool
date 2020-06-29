@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 每日开心指数计算器 
 
-You can use the [editor on GitHub](https://github.com/vsspdr/CalculatorTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是一款特别的计算器，它可以根据你每日遇到不顺心的事情次数、受到表扬的次数、受到批评的次数和遇到心情愉悦事情的次数，来分析你当天的开心指数，并计算出最终分数。满分100分，快来算算你今天的开心指数有多少分吧~
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: jichungan9498@163.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vsspdr/CalculatorTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
